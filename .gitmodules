@@ -1,0 +1,3 @@
+[submodule "Headr/0x1C.c"]
+	path = Headr/0x1C.c
+	url = https://github.com/holbertonschool/0x1C.c
